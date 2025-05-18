@@ -1,0 +1,1 @@
+cmd_/home/reds/DRV/drv25_student/material/lab_03/accumulate_module/accumulate.mod := { echo  /home/reds/DRV/drv25_student/material/lab_03/accumulate_module/accumulate.o;  echo; } > /home/reds/DRV/drv25_student/material/lab_03/accumulate_module/accumulate.mod

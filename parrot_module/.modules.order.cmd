@@ -1,0 +1,1 @@
+cmd_/home/reds/DRV/drv25_student/material/lab_04/parrot_module/modules.order := {   echo /home/reds/DRV/drv25_student/material/lab_04/parrot_module/parrot.ko; :; } > /home/reds/DRV/drv25_student/material/lab_04/parrot_module/modules.order

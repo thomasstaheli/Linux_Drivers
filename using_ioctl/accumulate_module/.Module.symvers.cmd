@@ -1,0 +1,1 @@
+cmd_/home/reds/DRV/drv25_student/material/lab_03/accumulate_module/Module.symvers := sed 's/\.ko$$/\.o/' /home/reds/DRV/drv25_student/material/lab_03/accumulate_module/modules.order | scripts/mod/modpost -m -a  -o /home/reds/DRV/drv25_student/material/lab_03/accumulate_module/Module.symvers -e -i Module.symvers   -T -

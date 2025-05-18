@@ -1,0 +1,1 @@
+cmd_/home/reds/DRV/drv25_student/material/lab_04/parrot_module/parrot.mod := printf '%s\n'   parrot.o | awk '!x[$$0]++ { print("/home/reds/DRV/drv25_student/material/lab_04/parrot_module/"$$0) }' > /home/reds/DRV/drv25_student/material/lab_04/parrot_module/parrot.mod
